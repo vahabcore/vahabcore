@@ -11,9 +11,6 @@ JavaScript · Node.js · React · MongoDB · REST APIs · Git · Linux
 ## Platforms & DevOps
 AWS · Docker · CI/CD · Nginx · Cloud deployment
 
-## Systems & Languages
-· C/C++ · Rust · Python
-
 ---
 ## Focus
 
