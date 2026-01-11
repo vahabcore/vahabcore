@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Abdulvahab 👋
 
-<!--
-**vahabcore/vahabcore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer focused on building scalable systems and solving real-world business problems.
 
-Here are some ideas to get you started:
+### What I work on
+- Scalable backend systems
+- Clean architecture & APIs
+- Performance, security, and reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently
+- Improving system design skills
+- Contributing to open source
+
+📫 Reach me: abdulvahabshaikh.dev
