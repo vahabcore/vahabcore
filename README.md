@@ -6,7 +6,13 @@ Interested in long-term maintainability, clean architecture, and open-source col
 
 ---
 ## Core Stack
-JavaScript · Node.js · React · Next.js · MongoDB · REST APIs · Git · Linux
+JavaScript · Node.js · React · MongoDB · REST APIs · Git · Linux
+
+## Platforms & DevOps
+AWS · Docker · CI/CD · Nginx · Cloud deployment
+
+## Systems & Languages
+· C/C++ · Rust · Python
 
 ---
 ## Focus
