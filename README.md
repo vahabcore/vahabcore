@@ -32,4 +32,4 @@ AWS · Docker · CI/CD · Nginx · Cloud deployment
 ---
 
 ## Contact
-- github.com/vahabcore · abdulvahabshaikh.dev · abdulvahab.dev@example.com 
+- github.com/vahabcore · abdulvahabshaikh.dev · abdulvahab.dev@gmail.com 
