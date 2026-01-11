@@ -5,7 +5,10 @@ Experience with enterprise asset management and remote management platforms.
 Interested in long-term maintainability, clean architecture, and open-source collaboration.
 
 ---
+## Core Stack
+JavaScript · Node.js · React · Next.js · MongoDB · REST APIs · Git · Linux
 
+---
 ## Focus
 
 - Enterprise systems (FAM, SAM, ITAM)
@@ -26,8 +29,4 @@ Interested in long-term maintainability, clean architecture, and open-source col
 ---
 
 ## Contact
-
-- GitHub: https://github.com/vahabcore  
-- Portfolio: https://abdulvahabshaikh.dev  
-- Email: your.email@example.com  
-- LinkedIn: https://www.linkedin.com/in/your-linkedin
+- github.com/vahabcore · abdulvahabshaikh.dev · abdulvahab.dev@example.com 
