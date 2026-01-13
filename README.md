@@ -1,4 +1,4 @@
-# Abdulvahab Gani Shaikh
+# Abdulvahab Shaikh
 
 Software developer focused on building reliable, scalable systems for real-world business needs.  
 Experience with enterprise asset management and remote management platforms.  
