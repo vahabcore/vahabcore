@@ -12,15 +12,6 @@ JavaScript · Node.js · React · MongoDB · REST APIs · Git · Linux
 AWS · Docker · CI/CD · Nginx · Cloud deployment
 
 ---
-## Focus
-
-- Enterprise systems (FAM, SAM, ITAM)
-- Remote management and operational tooling
-- Backend architecture and API design
-- Performance, reliability, and security
-- Documentation and developer experience
-
----
 
 ## Approach
 
